@@ -1,0 +1,39 @@
+
+.gallery img{
+         width:100%
+}
+
+h2{
+font-family:Impact,fantasy;
+text-align:center;
+font size:30px;
+color:violet
+text-decoratin:pink;
+font-style:italic;
+}
+h4{
+font-family:impact,fantasy;
+text-align:left;
+font size:20px;
+color:violet
+text-decoratin:pink;
+font-style:none;
+}
+#menu{
+    width:100%;
+    height:40px;
+    background-color:violet;
+    padding-Top:12px;
+    }
+#menu a{
+       color:#ffffff;
+       font-family:Impact,fantasy;
+       font size:18px;
+       text-decoratin:none;
+       font-weight:800px
+       padding-left:20px;
+       padding-right:20px;
+       }
+#menu a: hover{
+              color:#5077bd;
+            }
